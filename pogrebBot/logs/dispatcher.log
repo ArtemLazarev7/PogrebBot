@@ -1,0 +1,157 @@
+2023-02-14 14:05:13 DEBUG TelegramBot:35 - 333
+2023-02-14 14:10:22 DEBUG TelegramBot:35 - artemka
+2023-02-14 14:14:15 DEBUG TelegramBot:37 - Test
+2023-02-14 14:18:38 DEBUG TelegramBot:36 - Hello
+2023-02-14 14:18:39 ERROR TelegramBot:48 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-02-17 10:29:12 DEBUG UpdateProducerImpl:13 - #33
+2023-02-17 10:29:26 ERROR UpdateController:41 - Received unsupported message type Update(updateId=782245359, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=Message(messageId=38, from=User(id=1213431621, firstName=Артем, isBot=false, lastName=Лазарев, userName=null, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1676618951, chat=Chat(id=1213431621, type=private, title=null, firstName=Артем, lastName=Лазарев, userName=null, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=#334444, entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=1676618966, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=null, dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null), channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2023-02-17 10:30:10 DEBUG UpdateProducerImpl:13 - 
+2023-02-20 14:19:26 DEBUG UpdateProducerImpl:21 - Hello 1
+2023-02-20 14:22:21 DEBUG UpdateProducerImpl:21 - 
+2023-02-20 14:22:32 DEBUG UpdateProducerImpl:21 - dsdada
+2023-02-20 14:27:54 DEBUG UpdateProducerImpl:21 - artem
+2023-02-20 14:30:39 DEBUG UpdateProducerImpl:21 - Danila
+2023-02-20 14:33:19 DEBUG UpdateProducerImpl:21 - 44444
+2023-02-21 10:23:04 DEBUG UpdateProducerImpl:21 - 31231
+2023-02-21 10:41:21 DEBUG UpdateProducerImpl:21 - artem
+2023-02-21 13:33:00 DEBUG UpdateProducerImpl:21 - rrrrr
+2023-02-22 11:31:44 DEBUG UpdateProducerImpl:21 - Hello Bot
+2023-02-23 10:00:30 ERROR UpdateController:41 - Received unsupported message type Update(updateId=782245371, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=1213431621, type=private, title=null, firstName=Артем, lastName=Лазарев, userName=null, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null), from=User(id=1213431621, firstName=Артем, isBot=false, lastName=Лазарев, userName=null, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1677135629, oldChatMember=ChatMemberMember(status=member, user=User(id=5813554742, firstName=BotFile, isBot=true, lastName=null, userName=file_art_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), newChatMember=ChatMemberBanned(status=kicked, user=User(id=5813554742, firstName=BotFile, isBot=true, lastName=null, userName=file_art_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), inviteLink=null), chatMember=null, chatJoinRequest=null)
+2023-02-23 10:00:33 ERROR UpdateController:41 - Received unsupported message type Update(updateId=782245372, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=1213431621, type=private, title=null, firstName=Артем, lastName=Лазарев, userName=null, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null), from=User(id=1213431621, firstName=Артем, isBot=false, lastName=Лазарев, userName=null, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1677135632, oldChatMember=ChatMemberBanned(status=kicked, user=User(id=5813554742, firstName=BotFile, isBot=true, lastName=null, userName=file_art_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), newChatMember=ChatMemberMember(status=member, user=User(id=5813554742, firstName=BotFile, isBot=true, lastName=null, userName=file_art_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), inviteLink=null), chatMember=null, chatJoinRequest=null)
+2023-02-23 10:00:33 DEBUG UpdateProducerImpl:21 - /start
+2023-02-23 10:00:41 DEBUG UpdateProducerImpl:21 - /help
+2023-02-23 10:00:47 DEBUG UpdateProducerImpl:21 - /registration
+2023-02-23 10:00:49 DEBUG UpdateProducerImpl:21 - /cancel
+2023-02-23 10:01:23 DEBUG UpdateProducerImpl:21 - 
+2023-02-23 11:46:01 DEBUG UpdateProducerImpl:21 - 
+2023-02-23 11:48:06 DEBUG UpdateProducerImpl:21 - 
+2023-02-23 11:49:55 DEBUG UpdateProducerImpl:21 - 666
+2023-02-23 11:52:33 DEBUG UpdateProducerImpl:21 - 
+2023-02-23 11:58:56 DEBUG UpdateProducerImpl:21 - 
+2023-02-23 12:38:37 DEBUG UpdateProducerImpl:21 - 
+2023-02-23 12:42:04 DEBUG UpdateProducerImpl:21 - 
+2023-02-23 12:46:19 DEBUG UpdateProducerImpl:21 - 
+2023-02-23 14:29:20 DEBUG UpdateProducerImpl:21 - 
+2023-02-24 11:32:31 DEBUG UpdateProducerImpl:21 - 
+2023-02-24 11:32:54 DEBUG UpdateProducerImpl:21 - 
+2023-02-24 11:44:36 DEBUG UpdateProducerImpl:21 - 
+2023-02-24 13:53:07 DEBUG UpdateProducerImpl:21 - 
+2023-02-24 13:57:35 DEBUG UpdateProducerImpl:21 - 
+2023-02-24 13:59:00 DEBUG UpdateProducerImpl:21 - 
+2023-02-24 14:19:42 DEBUG UpdateProducerImpl:21 - 
+2023-02-25 12:08:22 DEBUG UpdateProducerImpl:21 - Ку
+2023-02-25 12:31:42 DEBUG UpdateProducerImpl:21 - 
+2023-02-25 12:31:52 DEBUG UpdateProducerImpl:21 - 
+2023-02-25 13:06:31 DEBUG UpdateProducerImpl:21 - 
+2023-02-25 13:42:39 DEBUG UpdateProducerImpl:21 - 
+2023-02-25 13:43:56 DEBUG UpdateProducerImpl:21 - 
+2023-02-25 14:50:30 DEBUG UpdateProducerImpl:21 - 
+2023-02-25 14:51:41 DEBUG UpdateProducerImpl:21 - 
+2023-02-25 14:52:32 DEBUG UpdateProducerImpl:21 - 
+2023-03-02 09:45:59 DEBUG UpdateProducerImpl:21 - 
+2023-03-02 09:46:17 DEBUG UpdateProducerImpl:21 - /help
+2023-03-02 09:46:25 DEBUG UpdateProducerImpl:21 - /help
+2023-03-02 09:48:54 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-02 09:49:23 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-02 09:49:26 DEBUG UpdateProducerImpl:21 - /help
+2023-03-02 09:50:34 DEBUG UpdateProducerImpl:21 - /start
+2023-03-02 09:53:16 DEBUG UpdateProducerImpl:21 - /help
+2023-03-02 09:56:37 DEBUG UpdateProducerImpl:21 - /help
+2023-03-02 09:56:49 DEBUG UpdateProducerImpl:21 - /cancel
+2023-03-02 09:56:54 DEBUG UpdateProducerImpl:21 - /start
+2023-03-02 10:45:21 DEBUG UpdateProducerImpl:21 - /help
+2023-03-02 10:45:24 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-02 10:45:29 DEBUG UpdateProducerImpl:21 - аыаыаыаы
+2023-03-02 10:45:32 DEBUG UpdateProducerImpl:21 - /cancel
+2023-03-02 10:45:36 DEBUG UpdateProducerImpl:21 - /help
+2023-03-02 10:45:37 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-02 10:46:39 DEBUG UpdateProducerImpl:21 - virogay834@v2ssr.com
+2023-03-02 10:48:19 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-02 10:50:20 DEBUG UpdateProducerImpl:21 - /help
+2023-03-02 10:50:23 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-02 10:50:49 DEBUG UpdateProducerImpl:21 - 
+2023-03-02 10:53:12 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-02 10:53:34 DEBUG UpdateProducerImpl:21 - virogay834@v2ssr.com
+2023-03-02 11:12:51 DEBUG UpdateProducerImpl:21 - /help
+2023-03-02 11:13:01 DEBUG UpdateProducerImpl:21 - 😎
+2023-03-02 11:13:03 DEBUG UpdateProducerImpl:21 - /help
+2023-03-02 12:06:13 DEBUG UpdateProducerImpl:21 - /cancel
+2023-03-02 12:15:31 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-02 12:20:23 DEBUG UpdateProducerImpl:21 - /help
+2023-03-02 12:20:27 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-02 12:20:31 DEBUG UpdateProducerImpl:21 - вфвыыфв
+2023-03-02 12:21:19 DEBUG UpdateProducerImpl:21 - virogay834@v2ssr.com
+2023-03-02 12:21:57 DEBUG UpdateProducerImpl:21 - /help
+2023-03-02 12:22:00 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-02 12:22:19 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-02 12:24:04 DEBUG UpdateProducerImpl:21 - virogay834@v2ssr.com
+2023-03-02 12:24:35 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-02 12:24:54 DEBUG UpdateProducerImpl:21 - dada
+2023-03-02 12:25:11 DEBUG UpdateProducerImpl:21 - virogay834@v2ssr.com
+2023-03-02 12:43:39 DEBUG UpdateProducerImpl:21 - /help
+2023-03-02 13:51:10 DEBUG UpdateProducerImpl:21 - virogay834@v2ssr.com
+2023-03-02 13:51:40 DEBUG UpdateProducerImpl:21 - /help
+2023-03-02 13:52:18 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-02 13:55:29 DEBUG UpdateProducerImpl:21 - virogay834@v2ssr.com
+2023-03-02 14:44:24 DEBUG UpdateProducerImpl:21 - /help
+2023-03-02 14:44:45 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-02 14:44:49 DEBUG UpdateProducerImpl:21 - dddd
+2023-03-02 14:46:38 DEBUG UpdateProducerImpl:21 - virogay834@v2ssr.com
+2023-03-02 14:49:42 DEBUG UpdateProducerImpl:21 - /help
+2023-03-02 14:49:43 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-02 14:54:47 DEBUG UpdateProducerImpl:21 - /help
+2023-03-02 14:54:51 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-02 14:55:17 DEBUG UpdateProducerImpl:21 - virogay834@v2ssr.com
+2023-03-03 14:01:56 DEBUG UpdateProducerImpl:21 - /help
+2023-03-03 14:01:56 DEBUG UpdateProducerImpl:21 - /help
+2023-03-03 14:01:56 DEBUG UpdateProducerImpl:21 - /help
+2023-03-03 14:01:56 DEBUG UpdateProducerImpl:21 - /help
+2023-03-03 14:02:45 DEBUG UpdateProducerImpl:21 - /help
+2023-03-03 14:04:50 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-03 14:14:44 DEBUG UpdateProducerImpl:21 - virogay834@v2ssr.com
+2023-03-03 14:15:16 DEBUG UpdateProducerImpl:21 - /help
+2023-03-03 14:15:17 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-03 14:16:23 DEBUG UpdateProducerImpl:21 - /help
+2023-03-03 14:16:32 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-03 14:16:50 DEBUG UpdateProducerImpl:21 - rrrr
+2023-03-03 14:17:12 DEBUG UpdateProducerImpl:21 - virogay834@v2ssr.com
+2023-03-03 14:36:43 DEBUG UpdateProducerImpl:21 - /help
+2023-03-03 14:36:46 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-03 14:36:57 DEBUG UpdateProducerImpl:21 - virogay834@v2ssr.com
+2023-03-04 10:37:21 DEBUG UpdateProducerImpl:21 - /help
+2023-03-04 10:37:34 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-04 10:39:56 DEBUG UpdateProducerImpl:21 - virogay834@v2ssr.cof
+2023-03-04 10:40:25 DEBUG UpdateProducerImpl:21 - /help
+2023-03-04 10:40:27 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-04 10:40:44 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-04 10:40:53 DEBUG UpdateProducerImpl:21 - virogay834@v2ssr.com
+2023-03-04 10:47:13 DEBUG UpdateProducerImpl:21 - /help
+2023-03-04 10:47:16 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-04 10:47:43 DEBUG UpdateProducerImpl:21 - virogay834@v2ssr.com
+2023-03-04 11:22:24 DEBUG UpdateProducerImpl:21 - /help
+2023-03-04 11:22:27 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-04 11:22:50 DEBUG UpdateProducerImpl:21 - virogay834@v2ssr.com
+2023-03-04 11:24:38 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-04 11:25:17 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-04 11:25:56 DEBUG UpdateProducerImpl:21 - artem6886426@gmail.com
+2023-03-04 11:30:24 DEBUG UpdateProducerImpl:21 - 
+2023-03-04 11:30:35 DEBUG UpdateProducerImpl:21 - /help
+2023-03-04 11:30:45 DEBUG UpdateProducerImpl:21 - 
+2023-03-04 11:30:47 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-04 11:31:01 DEBUG UpdateProducerImpl:21 - aaa
+2023-03-04 11:33:34 DEBUG UpdateProducerImpl:21 - virogay834@v2ssr.com
+2023-03-04 11:35:36 DEBUG UpdateProducerImpl:21 - 
+2023-03-06 14:03:49 ERROR TelegramBot:41 - Error executing org.telegram.telegrambots.meta.api.methods.updates.SetWebhook query: [400] Bad Request: invalid webhook URL specified
+2023-03-06 14:09:01 ERROR TelegramBot:41 - Error executing org.telegram.telegrambots.meta.api.methods.updates.SetWebhook query: [400] Bad Request: invalid webhook URL specified
+2023-03-06 14:14:46 DEBUG UpdateProducerImpl:21 - /help
+2023-03-06 14:14:47 DEBUG UpdateProducerImpl:21 - aaaa
+2023-03-06 14:14:47 DEBUG UpdateProducerImpl:21 - kkk
+2023-03-06 14:14:58 DEBUG UpdateProducerImpl:21 - /help
+2023-03-06 14:15:21 DEBUG UpdateProducerImpl:21 - 
+2023-03-06 14:15:25 DEBUG UpdateProducerImpl:21 - /registration
+2023-03-06 14:16:38 DEBUG UpdateProducerImpl:21 - virogay834@v2ssr.com
+2023-03-06 14:17:44 DEBUG UpdateProducerImpl:21 - 
+2023-03-06 14:18:13 DEBUG UpdateProducerImpl:21 - 
+2023-03-07 11:24:49 DEBUG UpdateProducerImpl:21 - 
+2023-03-07 11:24:51 DEBUG UpdateProducerImpl:21 - аааа
+2023-03-07 11:24:51 DEBUG UpdateProducerImpl:21 - ааа
